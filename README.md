@@ -45,9 +45,12 @@ The system uses ultrasonic sensors to detect whether a parking slot is occupied 
 3. The ESP8266 module uploads data to ThingSpeak, making the parking slot availability viewable remotely.
 
 ## Demo Video
-<video width="600" controls>
-  <source src="https://github.com/Ranjana-301/Smart_Parking_System/output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-[Watch the Smart Parking System Demo](https://github.com/Ranjana-301/Smart_Parking_System/output.mp4)
+
+
+https://github.com/user-attachments/assets/016bbd85-6c13-4da9-bf6d-7dc0ee491735
+
+
+
+https://github.com/user-attachments/assets/8cab5f7d-7ecd-4e06-bd70-565b5a46329b
+
 
