@@ -46,7 +46,7 @@ The system uses ultrasonic sensors to detect whether a parking slot is occupied 
 
 ## Demo Video
 <video width="600" controls>
-  <source src="https://github.com/Ranjana-301/Smart_Parking_System/videos/smart_parking_output.mp4" type="video/mp4">
+  <source src="https://github.com/Ranjana-301/Smart_Parking_System/blob/main/Videos/Smart_parking_result.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 ![Smart Parking System Demo](https://github.com/Ranjana-301/Smart_Parking_System/videos/smart_parking_output.mp4)
