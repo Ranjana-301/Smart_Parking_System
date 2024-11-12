@@ -17,9 +17,6 @@ The system uses ultrasonic sensors to detect whether a parking slot is occupied 
 - [Arduino IDE](https://www.arduino.cc/en/software)
 - [ThingSpeak](https://thingspeak.com/) account for data visualization
 
-## Circuit Diagram
-*Include a circuit diagram here if available.*
-
 ## Code Explanation
 
 ### Arduino Code
